@@ -1,27 +1,30 @@
-# Ken Asanion - Full-Stack Software Engineer 👋
+# Ken Asanion - Full-Stack Software Engineer Extraordinaire 👨‍💻✨
 
-As my bio suggest, I'm a full-stack engineer who loves doing front-end code.
-I love making things pretty and clean. I'm a bit of perfectionist when it comes to my craft.
-Thank the universe there's an AI 🤖 to get rid of this madness behavior.
+Hey there! I'm Ken Asanion, the maestro of code and the Picasso of pixels. As a full-stack engineer, I'm not just stacking code; I'm stacking dreams, one line at a time. I believe in making front-end code so beautiful, even Mona Lisa would be jealous.
 
-## Facts
+## The Symphony of Ken
 
-- 🔭 I'm currently employed but I'm open for non-related opportunities.
-- 💬 I enjoy doing freelance work from time to time.
-- 🍎 I have a passion for learning and teaching tech-related stuff.
-- ⚡ Updated Skillsets would be Angular, .NET, Azure / AWS, React, Flutter
-- 📫 How to reach me: kenasanion@gmail.com
-- 🧑‍💻 To view more about my job history, visit my [LinkedIn](https://ph.linkedin.com/in/kenasanion) 
+Let me drop some knowledge notes for you:
 
-## Some interview questions or trivia about me
+- 🔭 Currently, I'm dancing with the code at my job, but I'm open to dancing to new opportunities.
+- 💬 I love the occasional freelance tango; it adds flair to my routine.
+- 🍎 Passion for learning and teaching tech is in my DNA. It's not just an apple; it's a byte of knowledge.
+- ⚡ My skillset? Picture this: Angular and .NET doing the cha-cha, Azure/AWS waltzing in, and React and Flutter salsa-ing the night away.
+- 📫 Wanna send a love letter? Hit me up at kenasanion@gmail.com.
+- 🧑‍💻 For the reel of my professional life, check out my [LinkedIn masterpiece](https://ph.linkedin.com/in/kenasanion).
 
-- Like most software engineers, I work really well when there is caffeine in my system.
-- If you like to treat me, I love anything sweet-matcha flavored drink.
-- What I hate about UI issues is browser compatibility.
-- What I love about front-end is responsiveness.
-- I'm trying to learn AI at the moment... 
+## The Ken Quiz Show 🎉
 
-## How I work
+Time for some fun facts:
 
-I'm trying my best to follow at least a system or some sort of habit of doing things earlier. I do procrastinate but I hate it. However, when I do procrastinate my productivity is 120%.
-As much as possible, I cannot work properly when there's constant pressure around me to finish things. Give me a freedom to do things then I'll finish it with quality.
+- I code best when my caffeine levels are on point.
+- Sweet tooth alert! Treat me to anything sweet with a dash of matcha, and we'll be best buds.
+- UI issues give me the heebie-jeebies, especially the browser compatibility monsters.
+- Front-end is my playground, and responsiveness is my favorite slide.
+- Currently decoding the secrets of AI; watch out, I might be building your future robotic overlord.
+
+## Maestro at Work 🎻
+
+I'm a maestro of productivity, conducting symphonies of code. I strive to follow a rhythm, but let's face it, procrastination is my encore. When the pressure's off, my productivity hits 120%, turning procrastination into a symphony of efficiency.
+
+Give me the freedom to compose, and I'll craft code so elegant it'll make your servers weep. Let's create a masterpiece together! 🚀
