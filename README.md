@@ -1,6 +1,6 @@
 # Ken Asanion - Full-Stack Software Engineer Extraordinaire 👨‍💻✨
 
-Hey there! I'm Ken Asanion, the maestro of code and the Picasso of pixels. As a full-stack engineer, I'm not just stacking code; I'm stacking dreams, one line at a time. I believe in making front-end code so beautiful, even Mona Lisa would be jealous.
+Hey there! Just call me Ken, the maestro of code and the Picasso of pixels. As a full-stack engineer, I'm not just stacking code; I'm stacking dreams, one line at a time. I believe in making front-end code so beautiful, even Mona Lisa would be jealous. Give me the freedom to compose, and I'll craft code so elegant it'll make your servers weep. Let's create a masterpiece together! 🚀
 
 ## The Symphony of Ken
 
@@ -22,9 +22,3 @@ Time for some fun facts:
 - UI issues give me the heebie-jeebies, especially the browser compatibility monsters.
 - Front-end is my playground, and responsiveness is my favorite slide.
 - Currently decoding the secrets of AI; watch out, I might be building your future robotic overlord.
-
-## Maestro at Work 🎻
-
-I'm a maestro of productivity, conducting symphonies of code. I strive to follow a rhythm, but let's face it, procrastination is my encore. When the pressure's off, my productivity hits 120%, turning procrastination into a symphony of efficiency.
-
-Give me the freedom to compose, and I'll craft code so elegant it'll make your servers weep. Let's create a masterpiece together! 🚀
