@@ -7,7 +7,6 @@ Hey there! Just call me Ken, the maestro of code and the Picasso of pixels. As a
 Let me drop some knowledge notes for you:
 
 - 🔭 Currently, I'm dancing with the code at my job, but I'm open to dancing to new opportunities.
-- 💬 I love the occasional freelance tango; it adds flair to my routine.
 - 🍎 Passion for learning and teaching tech is in my DNA. It's not just an apple; it's a byte of knowledge.
 - ⚡ My skillset? Picture this: Angular and .NET doing the cha-cha, Azure/AWS waltzing in, and React and Flutter salsa-ing the night away.
 - 📫 Wanna send a love letter? Hit me up at kenasanion@gmail.com.
@@ -17,8 +16,7 @@ Let me drop some knowledge notes for you:
 
 Time for some fun facts:
 
-- I code best when my caffeine levels are on point.
-- Sweet tooth alert! Treat me to anything sweet with a dash of matcha, and we'll be best buds.
+- I code best when my caffeine levels are on point. Treat me to anything sweet with a dash of matcha, and we'll be best buds.
 - UI issues give me the heebie-jeebies, especially the browser compatibility monsters.
 - Front-end is my playground, and responsiveness is my favorite slide.
 - Currently decoding the secrets of AI; watch out, I might be building your future robotic overlord.
