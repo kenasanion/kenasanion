@@ -2,7 +2,7 @@
 
 Hey there! Just call me Ken, the maestro of code and the Picasso of pixels. As a full-stack engineer, I'm not just stacking code; I'm stacking dreams, one line at a time. I believe in making front-end code so beautiful, even Mona Lisa would be jealous. Give me the freedom to compose, and I'll craft code so elegant it'll make your servers weep. Let's create a masterpiece together! 🚀
 
-## Let me drop some knowledge notes for you
+## Let me drop some of my life history
 
 - 🔭 Currently, I'm dancing with the code at my job, but I'm open to dancing to new opportunities.
 - 🍎 Passion for learning and teaching tech is in my DNA. It's not just an apple; it's a byte of knowledge.
