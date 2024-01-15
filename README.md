@@ -7,7 +7,7 @@ Hey there! Just call me Ken, the maestro of code and the Picasso of pixels. As a
 - 🔭 Currently, I'm dancing with the code at my job, but I'm open to dancing to new opportunities.
 - 🍎 Passion for learning and teaching tech is in my DNA. It's not just an apple; it's a byte of knowledge.
 - ⚡ My skillset? Picture this: Angular and .NET doing the cha-cha, Azure/AWS waltzing in, and React and Flutter salsa-ing the night away.
-- 📫 Wanna send a love letter? Hit me up at kenasanion@gmail.com.
+- 💌 Wanna send a love letter? Hit me up at kenasanion@gmail.com.
 - 🧑‍💻 For the reel of my professional life, check out my [LinkedIn masterpiece](https://ph.linkedin.com/in/kenasanion).
 
 ## The Ken Quiz Show 🎉
